@@ -1,4 +1,3 @@
-# File: download_model.py
 
 import os
 from transformers import BertTokenizer, BertModel
